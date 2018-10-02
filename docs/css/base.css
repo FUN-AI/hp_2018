@@ -1,0 +1,63 @@
+﻿body{
+ background-color: #FFFFFF;
+ font-family: "メイリオ","游ゴシック";
+}
+
+table {
+ border-collapse: collapse;
+ margin-top : 15px;
+ margin-bottom: 15px;
+ margin-right: auto;
+ margin-left: auto;
+ min-width: 90%;
+ border-width: 0px;
+}
+
+.t-line tr:nth-child(odd) td {  
+ background-color: #FFFFFF;  
+}
+.t-line tr:nth-child(even) td {  
+ background-color: #EEEEEE;  
+}
+
+td {
+ padding: 8px;
+}
+
+h1 {
+ font-size: 48px;
+}
+
+h2 {
+ background-color: #FFFFFF;
+ padding: 0.2em 0.6em;
+
+}
+
+h3 {
+ color: #EEEEEE;
+ margin: 0px 0px 0px 0px;
+
+ padding: 5px 10px;
+
+ background-color: #AAAAAA;
+}
+
+li {
+ list-style-type: none;
+}
+
+.num{
+ min-width: 30%;
+ text-align: right;
+}
+
+.menu_block{
+ padding: 0px 0px 10px 0px;
+ margin: 5px;
+ max-width: 480px;
+ min-width: 320px;
+ background-color: #BBBBBB;  
+}
+
+
