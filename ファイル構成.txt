@@ -1,0 +1,5 @@
+index.html - 開くページ
+ header.html - ヘッダー
+ side.html - サイドバー
+ footer.html - フッター
+
