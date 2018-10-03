@@ -1,6 +1,10 @@
-﻿/* ----- option ----- */
-var id = ['a','b','c','d']; //指定するidを全て配列で渡す
-var txSp = 60; // テキストの表示速度
+﻿/*
+参考サイト： https://nkmrkisk.com/archives/925
+
+*/
+/* ----- option ----- */
+var id = ['title','p1','menu_drink','menu_food','footer']; //指定するidを全て配列で渡す
+var txSp = 50; // テキストの表示速度
 var dly = 0; // 次の文章までの待ち時間
 /* ----- option ----- */
 var count = 0;

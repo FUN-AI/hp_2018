@@ -8,5 +8,9 @@ p{
  letter-spacing: 2px;
  font-size: 18px;
  font-family: monospac;
+ white-space: nowrap;
 }
 
+.mg{
+ padding: 8px 18px;
+}
