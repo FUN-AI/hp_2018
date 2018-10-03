@@ -1,7 +1,7 @@
 ﻿body{
  background-color: #000000;
  color: #FFFFFF;
- font-family: "游ゴシック","メイリオ","ＭＳ ゴシック";
+ font-family: Consolas,"游ゴシック","メイリオ","ＭＳ ゴシック";
 }
 
 p{
@@ -16,7 +16,7 @@ p{
 }
 
 .hoge{
-
+  font-size: 16px;
 }
 
 .hoge2{

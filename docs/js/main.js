@@ -3,7 +3,7 @@
 
 */
 /* ----- option ----- */
-var id = ['title','p1','menu_drink','menu_food','footer']; //指定するidを全て配列で渡す
+var id = ['title','p1','menu_drink','menu_food','menu_set','footer']; //指定するidを全て配列で渡す
 var txSp = 50; // テキストの表示速度
 var dly = 0; // 次の文章までの待ち時間
 /* ----- option ----- */
