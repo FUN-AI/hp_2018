@@ -4,9 +4,9 @@
  font-family: "游ゴシック","メイリオ","ＭＳ ゴシック";
 }
 
-p,tt{
+p{
  letter-spacing: 2px;
-
-
+ font-size: 18px;
+ font-family: monospac;
 }
 
