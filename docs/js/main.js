@@ -17,7 +17,7 @@ window.onload = function(){
       // スマホ時に行う処理を書く（文字の大きさを変える処理を書く）
       for(n=0;n<id.length;n++){
         var temp = document.getElementById(id[n]);
-        temp.className = 'foo-after';
+        temp.className = 'hoge2';
       }
   } else {
       // PC・タブレット時に行う処理を書く
