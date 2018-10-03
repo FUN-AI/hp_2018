@@ -1,10 +1,12 @@
 ﻿body{
  background-color: #000000;
  color: #FFFFFF;
- font-family: "MS ゴシック","メイリオ","游ゴシック";
+ font-family: "游ゴシック","メイリオ","ＭＳ ゴシック";
 }
 
-p{
+p,tt{
+ letter-spacing: 2px;
+
 
 }
 
